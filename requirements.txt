@@ -1,0 +1,11 @@
+pandas
+numpy
+matplotlib
+requests
+streamlit
+prophet
+pmdarima
+statsmodels
+scikit-learn
+tensorflow
+plotly
